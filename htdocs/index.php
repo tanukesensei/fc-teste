@@ -8,7 +8,12 @@
 </head>
 <body>
     <a href="src/view/cadastro_medico.php">Cadastro de Médico</a>
-    <h3>Lista de Atendimento</h3>   
+    
+    <div>
+        <h3>Lista de Atendimento</h3>  
+
+    </div>
+
 </body>
 </html>
 
